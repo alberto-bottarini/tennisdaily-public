@@ -1,0 +1,21 @@
+<svg viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg"><defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0a2828"/>
+    <stop offset="100%" stop-color="#0d4040"/>
+  </linearGradient>
+  <linearGradient id="tov" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="black" stop-opacity="0.45"/>
+    <stop offset="55%" stop-color="black" stop-opacity="0.1"/>
+    <stop offset="100%" stop-color="black" stop-opacity="0"/>
+  </linearGradient>
+</defs><rect width="800" height="240" fill="url(#bg)"/><g opacity="0.14" stroke="white" fill="none">
+  <line x1="330" y1="260" x2="492" y2="80"/> <line x1="870" y1="260" x2="708" y2="80"/>
+  <line x1="420" y1="260" x2="535" y2="80"/> <line x1="780" y1="260" x2="665" y2="80"/>
+  <line x1="330" y1="260" x2="870" y2="260" stroke-width="2"/>
+  <line x1="392" y1="192"
+        x2="808" y2="192"
+        stroke-width="1.8"/>
+  <line x1="330" y1="155" x2="870" y2="155" stroke-width="1.2"/>
+  <line x1="600" y1="80"  x2="600" y2="260" stroke-width="1"/>
+  <line x1="330" y1="260" x2="870" y2="260" stroke-width="0"/>
+</g><rect x="0" y="0" width="5" height="240" fill="#2dd4bf" opacity="0.9"/></svg>
