@@ -1,0 +1,15 @@
+<svg viewBox="0 0 400 140" xmlns="http://www.w3.org/2000/svg"><defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#4a2800"/>
+    <stop offset="100%" stop-color="#7a4200"/>
+  </linearGradient>
+</defs><rect width="400" height="140" fill="url(#bg)"/><g opacity="0.14" stroke="white" fill="none">
+  <clipPath id="tc"><ellipse cx="300" cy="65" rx="48" ry="59"/></clipPath>
+  <g clip-path="url(#tc)" stroke-width="0.7">
+    <line x1="252" y1="6" x2="252" y2="124"/><line x1="268" y1="6" x2="268" y2="124"/><line x1="284" y1="6" x2="284" y2="124"/><line x1="300" y1="6" x2="300" y2="124"/><line x1="316" y1="6" x2="316" y2="124"/><line x1="332" y1="6" x2="332" y2="124"/><line x1="348" y1="6" x2="348" y2="124"/>
+    <line x1="252" y1="12" x2="348" y2="12"/><line x1="252" y1="28" x2="348" y2="28"/><line x1="252" y1="44" x2="348" y2="44"/><line x1="252" y1="60" x2="348" y2="60"/><line x1="252" y1="76" x2="348" y2="76"/><line x1="252" y1="92" x2="348" y2="92"/><line x1="252" y1="108" x2="348" y2="108"/>
+  </g>
+  <ellipse cx="300" cy="65" rx="48" ry="59" stroke-width="1.6"/>
+  <line x1="292" y1="124" x2="288" y2="136" stroke-width="5" stroke-linecap="round"/>
+  <line x1="308" y1="124" x2="312" y2="136" stroke-width="5" stroke-linecap="round"/>
+</g><rect x="0" y="0" width="4" height="140" fill="#fbbf24" opacity="0.9"/></svg>
