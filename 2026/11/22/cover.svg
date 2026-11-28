@@ -1,0 +1,23 @@
+<svg viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg"><defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#4a2800"/>
+    <stop offset="100%" stop-color="#7a4200"/>
+  </linearGradient>
+  <linearGradient id="tov" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="black" stop-opacity="0.45"/>
+    <stop offset="55%" stop-color="black" stop-opacity="0.1"/>
+    <stop offset="100%" stop-color="black" stop-opacity="0"/>
+  </linearGradient>
+</defs><rect width="800" height="240" fill="url(#bg)"/><g opacity="0.18" stroke="white" fill="none">
+  <rect x="355" y="22" width="420" height="236" stroke-width="1.8"/>
+  <line x1="355" y1="140" x2="775" y2="140" stroke-width="2.5"/>
+  <line x1="408" y1="22"  x2="408" y2="258" stroke-width="1.2"/>
+  <line x1="723" y1="22"  x2="723" y2="258" stroke-width="1.2"/>
+  <line x1="408" y1="77"  x2="723" y2="77"  stroke-width="1.2"/>
+  <line x1="408" y1="203" x2="723" y2="203" stroke-width="1.2"/>
+  <line x1="565" y1="77"  x2="565" y2="203" stroke-width="1.2"/>
+  <line x1="355" y1="136" x2="408" y2="136" stroke-width="0.8"/>
+  <line x1="723" y1="136" x2="775" y2="136" stroke-width="0.8"/>
+  <line x1="355" y1="144" x2="408" y2="144" stroke-width="0.8"/>
+  <line x1="723" y1="144" x2="775" y2="144" stroke-width="0.8"/>
+</g><rect x="0" y="0" width="5" height="240" fill="#fbbf24" opacity="0.9"/></svg>
